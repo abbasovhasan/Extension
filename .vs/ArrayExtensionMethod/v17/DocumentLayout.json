@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\ArrayExtensionMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D681B1-A56D-48D7-9546-290B315D4E99}|ArrayExtensionMethod\\ArrayExtensionMethod.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\arrayextensionmethod\\arrayextensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D681B1-A56D-48D7-9546-290B315D4E99}|ArrayExtensionMethod\\ArrayExtensionMethod.csproj|solutionrelative:arrayextensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D681B1-A56D-48D7-9546-290B315D4E99}|ArrayExtensionMethod\\ArrayExtensionMethod.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\arrayextensionmethod\\arrayextensionmethod\\arrayextension\\mycustomresizemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D681B1-A56D-48D7-9546-290B315D4E99}|ArrayExtensionMethod\\ArrayExtensionMethod.csproj|solutionrelative:arrayextensionmethod\\arrayextension\\mycustomresizemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomResizeMethod.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\ArrayExtensionMethod\\ArrayExtensionMethod\\ArrayExtension\\MyCustomResizeMethod.cs",
+              "RelativeDocumentMoniker": "ArrayExtensionMethod\\ArrayExtension\\MyCustomResizeMethod.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\ArrayExtensionMethod\\ArrayExtensionMethod\\ArrayExtension\\MyCustomResizeMethod.cs",
+              "RelativeToolTip": "ArrayExtensionMethod\\ArrayExtension\\MyCustomResizeMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:39:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\ArrayExtensionMethod\\ArrayExtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExtensionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\ArrayExtensionMethod\\ArrayExtensionMethod\\Program.cs",
+              "RelativeToolTip": "ArrayExtensionMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:38:17.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\bin\Debug\net8.0\ArrayExtensionMethod.exe
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\bin\Debug\net8.0\ArrayExtensionMethod.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\bin\Debug\net8.0\ArrayExtensionMethod.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\bin\Debug\net8.0\ArrayExtensionMethod.dll
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\bin\Debug\net8.0\ArrayExtensionMethod.pdb
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.dll
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\refint\ArrayExtensionMethod.dll
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.pdb
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ArrayExtensionMethod.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\ArrayExtensionMethod\ArrayExtensionMethod\obj\Debug\net8.0\ref\ArrayExtensionMethod.dll
